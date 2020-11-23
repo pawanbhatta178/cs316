@@ -1,0 +1,51 @@
+ah9x8xxxx = 1;
+a99 = 2000.0;
+bbb = 3;
+HJ765Tr = 4.0;
+mDemo9812 = 5;
+x1 = 6;
+x2 = 7;
+x3 = 800;
+x4 = 90;
+x5 = 10;
+x6 = 11;
+x7 = 12;
+x8 = 13;
+x9 = 14;
+mm = 15;
+m = 16;
+from = 17;
+Movie = 18;
+a = 19;
+where = 20;
+a23458 = 21;
+X1 = 22;
+Y1234 = 23;
+a1 = 24;
+aaa = 25;
+x1 = 26;
+x2 = 27;
+x31 = 28;
+x55xxe = 29;
+x1 = 30;
+bbb = 31;
+x108E = 32;
+x2 = 33;
+CS312 = 34;
+CS200 = 35;
+ProjectI = 36.0;
+JustaHomework = 37;
+p1 = 38;
+y1999 = 39;
+m23 = 40;
+
+cs316 =
+	ah9x8xxxx - ( a99 +    bbb ) / HJ765Tr * 123 * 5.4 /
+
+		mDemo9812+x1-x2*x3/x4/x5-x6+x7*x8/x9/0.5e-2*876.756E+5/
+
+		87.034E2 +  mm + (m +from)* Movie/ a + (where+ a23458) / X1 + Y1234-
+
+	a1 +  ((aaa-x1+x2*x31/x55xxe-x1))+((((bbb+x108E-x2*CS312))))+86785-87.01e-3-
+	CS200 * ProjectI /(JustaHomework+p1) -  y1999 - m23
+;

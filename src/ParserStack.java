@@ -57,6 +57,17 @@ public abstract class ParserStack extends LexArithArray
         // argv[0]: input file containing an assignment list
         // argv[1]: output file displaying the parse tree
         // argv[2]: output file displaying runtime stack data
+        setIO( argv[0], argv[1], argv[2] );
+        setLex();
 
+        getToken();
+
+        AssignmentList assignmentList = assignmentList(); // build a parse tree
+        if ( ! t.isEmpty() )
+            errorMsg(5);
+        else if ( ! errorFound )
+            assignmentList.printParseTree(""); // print the parse tree in linearly indented form in argv[1] file
+
+        closeIO();
     }
 }
